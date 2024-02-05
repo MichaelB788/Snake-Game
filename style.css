@@ -1,0 +1,36 @@
+
+body{
+    background-image: url("images/backgrounds.jpg");
+    background-color: #8B888D;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.header{
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+
+#canvas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8F9D7A;
+}
+
+span, h1{
+    font-family: 'Sixtyfour', sans-serif;
+    color: black;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
